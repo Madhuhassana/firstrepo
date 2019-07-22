@@ -1,0 +1,6 @@
+test file.
+created for adding
+created for staging
+created for commit
+created for push to remote
+etc..
