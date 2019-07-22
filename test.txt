@@ -4,3 +4,5 @@ created for staging
 created for commit
 created for push to remote
 etc..
+
+First step> editing the file, this is not the best practice to edit the files on remote.
